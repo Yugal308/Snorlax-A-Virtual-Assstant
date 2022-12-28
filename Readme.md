@@ -1,0 +1,8 @@
+# Snorlax: A Virtual Assistant
+
+In today's era, almost everything that we use is connected to the internet in some way or another. With smartphones and the internet becoming a necessity these days, it would not be an exaggeration to say that the whole world is now at our fingertips. These days we are not even using our fingers to connect to the internet; instead, we speak what we want, and our virtual assistants get the work done.
+
+With advancements in Artificial Intelligence and Machine Learning, Virtual Assistants like Alexa, Google Assistant, and Siri have become very common in our lives. Even when we browse the internet, we interact with chatbots that help in giving us a better experience. Virtual Assistants can do almost everything like the weather report, making a to-do list, setting reminders, and listening to music.
+
+The system, SNORLAX, that we have developed will assist the users with queries that they have concerning the Institute. By saying "Hey SNOW," it will trigger the system, and the users can ask queries. These queries can range from information about the fee structure, different branches, previous year placement results, directions for various departments. The system will use voice recognition technology to convert the audio into text format. The conversational AI will analyse the text and generate the response in the text form. The text-to-speech agent will convert the response into audio, and the
+user will get the response. This will be a very immersive experience and available in multiple languages.
